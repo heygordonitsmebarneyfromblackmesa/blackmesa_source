@@ -10,8 +10,7 @@
       "downloadURL": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-ios-arm64.ipa",
       "localizedDescription": "A Xash3D FWGS port for iOS.",
       "iconURL": "https://img.tapimg.net/market/images/f5aa5d6bf9b37a8eb1fab7dbd559f48d.png/appicon?t=1"
-      // Add other optional keys as needed
-    }
+      }
   ],
   "sourceURL": "https://raw.githubusercontent.com/heygordonitsmebarneyfromblackmesa/blackmesa_source/refs/heads/main/source.json"
 }
