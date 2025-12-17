@@ -13,5 +13,5 @@
       // Add other optional keys as needed
     }
   ],
-  "sourceURL": "https://example.com/my-source.json"
+  "sourceURL": "https://raw.githubusercontent.com/heygordonitsmebarneyfromblackmesa/blackmesa_source/refs/heads/main/source.json"
 }
