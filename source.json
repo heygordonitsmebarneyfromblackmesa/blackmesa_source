@@ -1,1 +1,17 @@
-
+{
+  "name": "Black Mesa",
+  "identifier": "com.halflife.black.mesa",
+  "apps": [
+    {
+      "name": "Xash 3D FWGS",
+      "bundleIdentifier": "su.FWGS.xash3d-ios",
+      "version": "3911",
+      "versionDate": "2025-12-14",
+      "downloadURL": "https://github.com/FWGS/xash3d-fwgs/releases/download/continuous/xash3d-fwgs-ios-arm64.ipa",
+      "localizedDescription": "A Xash3D FWGS port for iOS.",
+      "iconURL": "https://img.tapimg.net/market/images/f5aa5d6bf9b37a8eb1fab7dbd559f48d.png/appicon?t=1"
+      // Add other optional keys as needed
+    }
+  ],
+  "sourceURL": "https://example.com/my-source.json"
+}
